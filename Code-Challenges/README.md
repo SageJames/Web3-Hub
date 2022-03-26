@@ -3,7 +3,7 @@
 ## About
 Learn the basics of the Web3 development through challenges and guided website. Make your own games or learn about hacking Ethereum smart contracts.
 
-## Links
+## Sites
 - [cryptohack](https://cryptohack.org/challenges/)
 - [ciphershastra](https://ciphershastra.com)
 - [The Ethernaut](https://ethernaut.openzeppelin.com)
