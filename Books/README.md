@@ -4,7 +4,7 @@
 ## About
 This is a collection of books that will show you the innerworking of Defi and Crytpocurrency. All of these books range from beginner freindly to advance material.
 
-## Links
+## Book Titles & Links
  - [The Cryptopians: Idealism, Greed, Lies, and the Making of the First Big Cryptocurrency Craze](https://amzn.to/3JB9I6e)
  - [Foundry Book](https://onbjerg.github.io/foundry-book/)
  - [Lexon: Digital Contracts](https://amzn.to/34pfBUE)
