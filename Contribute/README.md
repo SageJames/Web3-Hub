@@ -14,5 +14,5 @@ Make the issue like this:
 * Issue title
 * Description of issue
 * How you discovered it
-* Mention any idea you have to solve it
+* Mention any ideas you have to solve it
 * If you can fix it or not
