@@ -1,6 +1,9 @@
 # Books
 
 
+## About
+
+## Links
  - [The Cryptopians: Idealism, Greed, Lies, and the Making of the First Big Cryptocurrency Craze](https://amzn.to/3JB9I6e)
  - [Foundry Book](https://onbjerg.github.io/foundry-book/)
  - [Lexon: Digital Contracts](https://amzn.to/34pfBUE)
