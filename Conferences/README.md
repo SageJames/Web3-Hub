@@ -3,7 +3,7 @@
 ## About
 Conenct with the Cryptocurrency realted material, Learn the latest trends, and make a name for youreself in web3.
 
-## Links
+## Conferences Links
 - [web3conference](https://www.web3conference.io)
 - [cryptoworldcon](https://cryptoworldcon.com)
 - [btcmiami](https://www.btcmiami.com)
