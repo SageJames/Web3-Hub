@@ -9,7 +9,7 @@
 
 
 ## Troubleshooting and Support
-Create an [Issue](https://github.com/SageJames/Agilechan/issues).   
+Create an [Issue](https://github.com/SageJames/Web3-Hub/issues).   
 Make the issue like this:
 * Issue title
 * Description of issue
