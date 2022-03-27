@@ -1,6 +1,7 @@
 # Movies
 
 ## About
+Bored? Watch some movie related to Cryptocurrency and Decenterlization.
 
 ## Links
 - [Future Films: Content in a Web3 World](https://mirror.xyz/alexandrasukin.eth/t9sEJHA7qxcBcAMv0iVVBSI4ul3WxEFbXlJvoeMUU18)
