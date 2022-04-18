@@ -11,7 +11,7 @@
 |[Templates](https://github.com/SageJames/Web3-Hub/tree/main/Templates) |[Contribute](https://github.com/SageJames/Web3-Hub/tree/main/Contribute) |
 
 ## About
-This library is a collection of open source material that we three developers can learn and utilize to improve their skills to make defy related applications. These tools are organized by now only their capabilities and utility, but also by difficulty. This library is always a work in progress and if you would like to contribute please look below to find the contribute guide and information.
+This library is a collection of open source material that web3 developers can learn and utilize to improve their skills to make defy related applications. These tools are organized by now only their capabilities and utility, but also by difficulty. This library is always a work in progress and if you would like to contribute please look below to find the contribute guide and information.
 
 ## Contribute
 If you would like to add material to this libaray please use the link [here](https://github.com/SageJames/Web3-Hub/tree/main/Contribute).
