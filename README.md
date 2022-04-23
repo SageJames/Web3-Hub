@@ -39,7 +39,19 @@ This library is a refference place for all of your Defi need. Unlike an awesome 
 * If you just want to have some news on Defi and blockchain tech start [here](https://cryptonews.com)
 * Anything else should be within the index section.
 
+## Features
 
+- Collection of Information
+- Step-by-Step Application Determination
+- Use-case Example
+
+
+## Usage/Examples
+
+ * Company wanting to create application
+    - Enter library and select [here](https://github.com/SageJames/Web3-Hub/tree/main/Dapp-Starter)
+    - Company read all the prompts to determine all of the functionality they need to get start
+    - The are brought to a starting template and can start development.
 
 ## Contribute
 If you would like to add material to this libaray please use the link [here](https://github.com/SageJames/Web3-Hub/tree/main/Contribute).
