@@ -26,7 +26,11 @@ This library is a collection of open source material that web3 developers can le
 
 #### How can this Libaray help me? 
 
-#### What can I use this libary for? 
+This library offer an array of tools that you can use to level up your Defi experince. Use our link to learn and keep track of what is happening in the world of defi.
+
+#### What can I use this library for? 
+
+This library is a refference place for all of your Defi need. Unlike an awesome page, we do not just offer you link to material. Instead, this repo tries to help you find exaxtly what you need to be successful in you Defi life.
 
 #### Where do I find what best works for me?
 
