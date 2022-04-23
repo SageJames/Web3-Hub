@@ -34,9 +34,9 @@ This library is a refference place for all of your Defi need. Unlike an awesome 
 
 #### Where do I find what best works for me?
 
-* If you are trying to create something I would recconmend [here]()
-* If you want to learn the tools of web3 start [here]()
-* If you just want to have some news on Defi and blockchain tech start [here]()
+* If you are trying to create something I would recconmend [here](https://github.com/SageJames/Web3-Hub/tree/main/Dapp-Starter)
+* If you want to learn the tools of web3 start [here](https://web3.career/learn-web3)
+* If you just want to have some news on Defi and blockchain tech start [here](https://cryptonews.com)
 * Anything else should be within the index section.
 
 
