@@ -24,5 +24,5 @@ Ask yourself what does you day-in to day-out look like? <br/>
 What is the first thing that will be done when you enter into office? 
 
 # Step
-[NEXT STEP: PRESENTATION](https://github.com/SageJames/Web3-Hub/tree/main/Pipeline/Presentation)
+[NEXT STEP: PRESENTATION](https://github.com/SageJames/Web3-Hub/tree/main/Pipeline/Presentation)<br/>
 [PREVIOUS STEP: DESIGN](https://github.com/SageJames/Web3-Hub/tree/main/Pipeline/Design)
