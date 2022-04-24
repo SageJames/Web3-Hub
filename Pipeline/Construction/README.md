@@ -20,5 +20,5 @@ Follow this [video](https://youtu.be/00s5efQWrgU) or this [video](https://www.yo
 
 ## Build a workflow structure
 
-Ask yourself what does you day-in to day-out look like?
+Ask yourself what does you day-in to day-out look like? <br/>
 What is the first thing that will be done when you enter into office? 
