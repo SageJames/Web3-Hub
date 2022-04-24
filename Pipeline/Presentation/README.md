@@ -32,7 +32,7 @@ There are some important topic that need to be mentioned:
 [Show a Project plan](https://youtu.be/iSg_0tsqCkM)<br/>
 
 ## Steps
-[NEXT STEP: PRESENTATION](https://github.com/SageJames/Web3-Hub/tree/main/Pipeline/Presentation)
+[NEXT STEP: PRESENTATION](https://github.com/SageJames/Web3-Hub/tree/main/Pipeline/Presentation)<br/>
 [PREVOUS STEP: CONSTRUCTION](https://github.com/SageJames/Web3-Hub/tree/main/Pipeline/Construction)
 
 
