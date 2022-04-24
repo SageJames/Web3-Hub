@@ -12,4 +12,4 @@ If you have not done so, please take this evaluation quiz and determine what typ
 * [Design](https://github.com/SageJames/Web3-Hub/tree/main/Pipeline/Design)
 * [Construction](https://github.com/SageJames/Web3-Hub/tree/main/Pipeline/Construction)
 * [Presentation](https://github.com/SageJames/Web3-Hub/tree/main/Pipeline/Presentation)
-* [Deployment](https://github.com/SageJames/Web3-Hub/tree/main/Pipeline/Presentation)
+* [Deployment](https://github.com/SageJames/Web3-Hub/tree/main/Pipeline/Deployment)
