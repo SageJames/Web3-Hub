@@ -10,6 +10,8 @@ Make the groundwork for building  your applciation. This section has all of the 
 * [Emacs](https://www.gnu.org/software/emacs/)
 * [Nova](https://nova.app)
 
+Use Github to keep track of your progress.
+
 ## Find Hosting
 This is going to need to be something that you get our of the way immediately. If you make an application that you cannot deploy, then you are going to be back at the build block once again.**Make sure the hosting works for the application that you are building.** Having you host not work can make meeting deadline very difficult.
 
