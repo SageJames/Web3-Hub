@@ -18,3 +18,7 @@ Now it is time to make the frontend interface for your web3 based application. T
   - Click on either the links within the Software section to be given beginner level videos on both software.
   - Take that knowelge to make you design.
   - **Ask yourself if the design you made is able to be coded by you.**
+
+## Steps
+[NEXT STEP: CONSTRUCTION](https://github.com/SageJames/Web3-Hub/tree/main/Pipeline/Construction)
+[PREVIOUS STEP: LAYOUT](https://github.com/SageJames/Web3-Hub/tree/main/Pipeline/Layout)
