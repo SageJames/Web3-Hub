@@ -4,10 +4,9 @@ This is where we will help you find the best template for you in order to maximi
 
 * If you would like to change a previous answer, go back to a previous page and select another option.
 * If become confused by a question or comment create an issue for to be looked at.
-* Connect with others over the Wiki.
+* Once you starting framework has been determined, please go [here]() to start development.
 
 ## Evaluations
 
 [Start the Evaluation Here]()
-
 
