@@ -12,3 +12,4 @@ If you have not done so, please take this evaluation quiz and determine what typ
 * Design
 * Construction
 * Presentation
+* Deployment
