@@ -57,7 +57,6 @@ This library is a refference place for all of your Defi need. Unlike an awesome 
 
 There are three main sectors of this library that are personally tailored by me.
 
-* Learn how to have the habits of a crypto trader with [Habits-of-a-CryptoTrader](https://github.com/SageJames/Web3-Hub/tree/main/Habits-of-crypto)
 * A pathway in learning web3 from no programing experince with  [Learn-web3](https://github.com/SageJames/Web3-Hub/tree/main/Learn-web3)
 * Create an application ment for your company with [Dapp-Starter](https://github.com/SageJames/Web3-Hub/tree/main/Dapp-Starter)
 
