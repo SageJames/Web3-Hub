@@ -28,3 +28,7 @@ Answer the questions below to get an idea of what your application is trying to 
 ## User Experince
 
 * Imagine you are a user accessing your web3-site for the first time. What do expect to see and what actions can you preform on this plateform? Write them out one at a time on the peice of paper of doc.  
+
+## Steps
+
+[NEXT STEP: DESIGN](https://github.com/SageJames/Web3-Hub/tree/main/Pipeline/Design)
