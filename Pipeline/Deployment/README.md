@@ -14,7 +14,7 @@ If you are making a coin or service, then you will need a community to keep it a
 This application is the hop spot to crypto and web3 projects alike. There are several things that you will need to know before you make a server.
 
 * Establish a Discord framwork
-* Ghost Invatations
+* Ghost Invitations
 * Modderation
 * Entertainment and Brand Building
 
