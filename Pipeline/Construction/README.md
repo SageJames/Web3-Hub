@@ -22,3 +22,7 @@ Follow this [video](https://youtu.be/00s5efQWrgU) or this [video](https://www.yo
 
 Ask yourself what does you day-in to day-out look like? <br/>
 What is the first thing that will be done when you enter into office? 
+
+# Step
+[NEXT STEP: PRESENTATION](https://github.com/SageJames/Web3-Hub/tree/main/Pipeline/Presentation)
+[PREVIOUS STEP: DESIGN](https://github.com/SageJames/Web3-Hub/tree/main/Pipeline/Design)
