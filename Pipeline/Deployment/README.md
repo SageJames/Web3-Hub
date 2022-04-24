@@ -33,5 +33,8 @@ This was already mentioned within the begining of this document, but here is som
 
 Might be worth trying [this](https://www.netlify.com)
 
+## Steps
+[PREVIOUS STEP: PRESENTATION](https://github.com/SageJames/Web3-Hub/tree/main/Pipeline/Presentation)
+
 
 
