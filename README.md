@@ -55,7 +55,7 @@ This library is a refference place for all of your Defi need. Unlike an awesome 
 
 ## Authors Note
 
-There are three main sectors of this library that are personally tailored by me.
+There are two main sectors of this library that are personally tailored by me.
 
 * A pathway in learning web3 from no programing experince with  [Learn-web3](https://github.com/SageJames/Web3-Hub/tree/main/Learn-web3)
 * Create an application ment for your company with [Dapp-Starter](https://github.com/SageJames/Web3-Hub/tree/main/Dapp-Starter)
