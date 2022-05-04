@@ -1,7 +1,7 @@
 # Conferences
 
 ## About
-Conenct with the Cryptocurrency realted material, Learn the latest trends, and make a name for youreself in web3.
+Conenct with the cryptocurrency groups, learn the latest trends, and make a name for youreself in web3.
 
 ## Conferences Links
 - [web3conference](https://www.web3conference.io)
