@@ -1,7 +1,7 @@
 # Websites
 
 ## About
-These are website that can provide you with futher material and tools to imporve youreself.
+These are websites that can provide you with futher material and tools to imporve youreself.
 
 ## Links
 - [The Sway Programming Language](https://fuellabs.github.io/sway/latest/)
