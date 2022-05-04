@@ -1,7 +1,7 @@
 # Guides
 
 ## About
-A Structured apporach to getting a overview in the world of crypto and learning how to use it.
+A structured approach to getting a overview in the world of crypto and learning how to use it.
 
 ## Links 
 - [The Ultimate Guide to Web3](https://moralis.io/the-ultimate-guide-to-web3-what-is-web3/)
