@@ -1,7 +1,7 @@
 # Templates
 
 ## About
-Here are some template to get you started on making you next decenterlized application.
+Here are some templates to get you started on making your next decenterlized application.
 
 ## Link
 - [hardhat-js-starterkit](https://github.com/ahmedali8/hardhat-js-starterkit) 
