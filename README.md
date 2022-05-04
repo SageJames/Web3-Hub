@@ -24,17 +24,17 @@ This library is a collection of open source material that web3 developers can le
 
 ## FAQ
 
-#### How can this libaray help me? 
+#### How can this library help me? 
 
 This library offers an array of tools that you can use to level up your defi experince. Use our link to learn and keep track of what is happening in the world of defi.
 
 #### What can I use this library for? 
 
-This library is a refference place for all of your Defi need. Unlike an awesome page, we do not just offer you link to material. Instead, this repo tries to help you find exaxtly what you need to be successful in you Defi life.
+This library is a refference place for all of your defi needs. Unlike an awesome page, we do not just offer you links to material. Instead, this repo tries to help you find exaxtly what you need to be successful in you defi projects.
 
 #### Where do I find what best works for me?
 
-* If you are trying to create something I would recconmend [here](https://github.com/SageJames/Web3-Hub/tree/main/Dapp-Starter)
+* If you are trying to create something I would recommend [here](https://github.com/SageJames/Web3-Hub/tree/main/Dapp-Starter)
 * If you want to learn the tools of web3 start [here](https://web3.career/learn-web3)
 * If you just want to have some news on Defi and blockchain tech start [here](https://cryptonews.com)
 * Anything else should be within the index section.
@@ -42,7 +42,7 @@ This library is a refference place for all of your Defi need. Unlike an awesome 
 ## Features
 
 - Collection of Information
-- Step-by-Step Application Determination
+- Step-by-Step MVP Application Planning 
 - Use-case Example
 
 
@@ -50,18 +50,18 @@ This library is a refference place for all of your Defi need. Unlike an awesome 
 
  * Company wanting to create application
     - Enter library and select [here](https://github.com/SageJames/Web3-Hub/tree/main/Dapp-Starter)
-    - Company read all the prompts to determine all of the functionality they need to get start
-    - The are brought to a starting template and can start development.
+    - Company reads all the prompts to determine all of the functionality they need to get started
+    - They are brought to a starting template and can start development.
 
 ## Authors Note
 
 There are two main sectors of this library that are personally tailored by me.
 
-* A pathway in learning web3 from no programing experince with  [Learn-web3](https://github.com/SageJames/Web3-Hub/tree/main/Learn-web3)
-* Create an application ment for your company with [Dapp-Starter](https://github.com/SageJames/Web3-Hub/tree/main/Dapp-Starter)
+* A pathway in learning web3 from no programing experince with [Learn-web3](https://github.com/SageJames/Web3-Hub/tree/main/Learn-web3)
+* Create an application for your company with [Dapp-Starter](https://github.com/SageJames/Web3-Hub/tree/main/Dapp-Starter)
 
 ## Contribute
-If you would like to add material to this libaray please use the link [here](https://github.com/SageJames/Web3-Hub/tree/main/Contribute).
+If you would like to add material to this library please use the link [here](https://github.com/SageJames/Web3-Hub/tree/main/Contribute).
 
 
 ## Quote
