@@ -1,7 +1,7 @@
 # Courses
 
 ## About
-Learn how to programming in the web3 space.
+Learn how to program in web3.
 
 ## Courses Links
 - [web3.career](https://web3.career/learn-web3)
