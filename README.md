@@ -24,9 +24,9 @@ This library is a collection of open source material that web3 developers can le
 
 ## FAQ
 
-#### How can this Libaray help me? 
+#### How can this libaray help me? 
 
-This library offer an array of tools that you can use to level up your Defi experince. Use our link to learn and keep track of what is happening in the world of defi.
+This library offers an array of tools that you can use to level up your defi experince. Use our link to learn and keep track of what is happening in the world of defi.
 
 #### What can I use this library for? 
 
