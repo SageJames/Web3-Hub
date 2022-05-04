@@ -1,6 +1,7 @@
 # Lectures
 
 ## About
+These are some videos lectures related to the topic of web3. The orientation of this section is to understand what presentations look like within the defi space. 
 
 ## Links
 - [Dr. Gavin Wood - The Journey to Web3](https://youtu.be/lH1pEE0W3ug)
