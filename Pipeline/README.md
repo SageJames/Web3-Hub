@@ -3,7 +3,7 @@ Pipeline is the organized infrastructure for how a company can produce a web thr
 
 ## Evaluations
 
-If you have not done so, please take this evaluation quiz and determine what type of starting framework best fit your orientation.
+If you have not done so, please take this evaluation quiz and determine what type of starting framework best fits your orientation.
 
 [Start the Evaluation Here]()
 
