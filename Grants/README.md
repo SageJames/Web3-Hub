@@ -1,7 +1,7 @@
 # Grants
 
 ## About 
-Need money to get your project up and running. Here are some option to start your jouney.
+Need money to get your project up and running. Here are some options to start your journey.
 
 ## Links
 - [aavegrants](https://aavegrants.org)
