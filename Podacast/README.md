@@ -1,7 +1,7 @@
 # Podacast
 
 ## About
-Learn about Web3 new and innovations on the marketplace.
+Learn about Web3 news and innovations on the marketplace.
 
 ## Links
 - [Web3 with Sam Kamani - Podcast](https://web3pod.xyz/)
