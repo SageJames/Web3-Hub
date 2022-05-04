@@ -1,7 +1,7 @@
 # Tutorals
 
 ## About
-These. are hands on tutroials that will show you new aspect of Web3 and allow to add project to your Github.
+These are hands on tutorials that will show you new aspects of Web3 and allow you to add projects to your Github.
 
 ## Links
 - [Explore Ethereum Data with SQL queries on Dune Analytics](https://ethereumdev.io/explore-ethereum-data-with-sql-queries-on-dune-analytics/) 
