@@ -1,20 +1,18 @@
 # Presentation
-This setions is ment for showing you boss or peer the application that you were working on. Follow this section to find application that you can use and methods within the crypto industy for presentations.
+This section is ment for showing your boss, or peers, the application that you were working on. Follow this section to find the applications and methods within the crypto industy you can use for presentations.
 
 ## Introduction to Presentations in Defi
 
-
-
-There are some important topic that need to be mentioned: 
+There are some important topics that need to be mentioned: 
 * Know what you are talking about
-  - Conduct research on thing (Word and Terminology) before you speak on them.
+  - Conduct research on things (Word and Terminology) before you speak on them.
 * Transparency transparency transparency
-  - Share your goal and knowing thier only benefit in web 3.0.
+  - Share your goals and make sure everything is clear.
 * Make sure to connect the dots
   - Show the start to end of the entire project. 
-  - Show the story of how thing can play out.
+  - Show the story of how things can play out.
 * Be projective about the future.
-  - Show them how Crypto is going to change the world and thier bussiness.
+  - Show them how cryptocurrency is going to change the world and thier bussiness.
 
 
 ## Useful material for your presentation
