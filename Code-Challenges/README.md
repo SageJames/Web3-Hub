@@ -1,7 +1,7 @@
 # Code-Challenges
 
 ## About
-Learn the basics of the Web3 development through challenges and guided website. Make your own games or learn about hacking Ethereum smart contracts.
+Learn the basics of Web3 development through challenges and guided websites. Make your own games or learn about hacking Ethereum smart contracts.
 
 ## Code Challenges Links
 - [cryptohack](https://cryptohack.org/challenges/)
