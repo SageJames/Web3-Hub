@@ -16,7 +16,7 @@ There are some important topics that need to be mentioned:
 
 ## Evaluating Feedback
 * Outline the main ideas behind everything that a user said regaurding your product. 
-* List 3 main issue
+* List 3 main issues
 * List 3 porsitives
 * What stuck out to them the most? 
 * What future relationship do they want with the application?
