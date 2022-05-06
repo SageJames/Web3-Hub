@@ -14,6 +14,15 @@ There are some important topics that need to be mentioned:
 * Be projective about the future.
   - Show them how cryptocurrency is going to change the world and thier bussiness.
 
+## Evaluating Feedback
+* Outline the main ideas behind everything that a user said regaurding your product. 
+* List 3 main issue
+* List 3 porsitives
+* What stuck out to them the most? 
+* What future relationship do they want with the application?
+* What does the pathway to improvemnt look like? 
+* Do they have faith in your project?
+
 
 ## Useful material for your presentation
 [What is Web3.0](https://youtu.be/nHhAEkG1y2U)<br/>
